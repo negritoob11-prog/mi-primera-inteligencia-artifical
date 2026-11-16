@@ -14,6 +14,10 @@ def identificar_fruta(peso, color):
 
 
 # Primera prueba del asistente
-resultado = identificar_fruta(150, "amarillo")
+print("ASISTENTE DE IDENTIFICACION DE FRUTAS")
+
+resultado = identificar_fruta(150, "rojo")
+
+print("Resultado:", resultado)
 Creo mi asistente de frutas
 print(resultado)
